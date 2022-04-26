@@ -5,7 +5,8 @@ You do CRUD operations with the countries model which include the country name, 
 # Endpoints 
 |methods   |endpoints |description |
 |----------|----------|------------|
-|get       |/country         |  get all the countries          |
+|get       |/         |get the counts of countries|
+|get       |/country/         |  get all the countries          |
 |get       |/country/id         |  get a country by id          |
 |get       |/country/name        |  get a country by name         |
 |post       |/country         |  create   countries          |
